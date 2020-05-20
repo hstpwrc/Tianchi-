@@ -5,4 +5,4 @@
 为了简化赛题难度，赛题数据采用公开数据集SVHN，因此大家可以选择很多相应的paper作为思路参考。
 ## 1.2 赛题数据
 赛题以街道字符为为赛题数据，数据集报名后可见并可下载，该数据来自收集的SVHN街道字符，并进行了匿名采样处理。
-![image](http://github.com/https://github.com/hstpwrc/Tianchi-/dataimage.jpg)
+![image](http://github.com/https://github.com/hstpwrc/Tianchi-/blob/master/dataimage.png)
